@@ -8,7 +8,7 @@ Screenshots
 
 Installation
 ------------
-1. Import the Wheely project into your IDE (Flash Builder -> ActionScript Project)
+1. Import the APEWheely project into your IDE (Flash Builder -> ActionScript Project)
 1. Add the SWC (org/wheely/assets/swc/Assets.swc) to project's library path
 1. Compile And Run !
 
