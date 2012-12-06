@@ -12,6 +12,8 @@ Installation
 1. Add the SWC (org/wheely/assets/swc/Assets.swc) to project's library path
 1. Compile And Run !
 
+You can create a .apk file to install it on your phone. Keep in mind that you have to install AIR for Android on your mobile phone before.
+
 Notes
 -----
 The UI Language is in French.
