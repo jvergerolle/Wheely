@@ -1,6 +1,6 @@
 Wheely
 ======
-Wheely is a game concept created with Adobe AIR. It's a interactive test about Adobe AIR 2.6 capabilities on Mobile Operating systems. Its use a physical engine (APE - ActionScript Physical Engine), SQLite Database and Flash made Vector Shapes.
+Wheely is a game concept created with Adobe AIR. It's an interactive test about Adobe AIR 2.6 and its capabilities on Mobile Operating systems. This project uses a physical engine (APE - ActionScript Physical Engine), a SQLite Database and vector assets made in Flash.
 
 Screenshots
 -----------
