@@ -4,7 +4,7 @@ Wheely is a game concept created with Adobe AIR. It's a interactive test about A
 
 Screenshots
 -----------
-[![](https://raw.github.com/jimmyvergerolle/wheely/master/Screenshots/wheely2.png)](https://raw.github.com/jimmyvergerolle/wheely/master/Screenshots/wheely2.png)
+[![](https://raw.github.com/jvergerolle/wheely/master/Screenshots/wheely2.png)](https://raw.github.com/jvergerolle/wheely/master/Screenshots/wheely2.png)
 
 Installation
 ------------
